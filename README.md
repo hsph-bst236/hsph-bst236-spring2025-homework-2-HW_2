@@ -1,6 +1,6 @@
 # Homework 2: Reproducible and Automated Workflow in R
 
-The due date is Feb 21 at midnight. Please follow the [code squad rules](https://junwei-lu.github.io/bst236/chapter_syllabus/syllabus/#code-squad). If you are using the late days, please note in the head of README.md that “I used XX late days this time, and I have XX days remaining”. 
+The due date is Feb 20 at midnight. Please follow the [code squad rules](https://junwei-lu.github.io/bst236/chapter_syllabus/syllabus/#code-squad). If you are using the late days, please note in the head of README.md that “I used XX late days this time, and I have XX days remaining”. 
 
 The main purpose of this homework is to help you:
 - Implement the reproducible and automated workflow in R
